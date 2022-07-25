@@ -1,0 +1,29 @@
+# Department name
+# percentage white, percentage male
+
+CEO Office
+0.5, 0.5
+
+HR
+0.8, 0.2
+
+Finance
+0.75, 0.52
+
+Operations
+0.82, 0.55
+
+Marketing
+0.72, 0.4
+
+Legal
+0.9, 0.6
+
+Engineering
+0.65, 0.7
+
+Sales
+0.8, 0.58
+
+IT
+0.7, 0.9
