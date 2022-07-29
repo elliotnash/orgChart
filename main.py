@@ -1,8 +1,4 @@
 #!/usr/env python
-
-# To install dependencies, run `pip install -r requirements.txt`
-# run with `python main.py`
-
 import numpy as np
 import csv
 
