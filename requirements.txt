@@ -1,5 +1,1 @@
 numpy
-matplotlib
-scipy
-statistics
-anytree
